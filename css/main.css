@@ -403,3 +403,34 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+/* Portfolio (My Projects) */
+
+.portfolio h1,
+.portfolio h2 {
+	background: #aaa;
+	color: #fff;
+	text-align: center;
+}
+
+.portfolio h3 {
+	background: #ececec;
+	text-align: center;
+}
+
+.item_visual img {
+	width: 100%;
+}
+
+.item_visual a img:hover {
+	opacity: 0.8;
+	border: solid 1px #205caa;
+}
+
+.item_desc span {
+	background: #999;
+	color: #fff;
+	border: solid 1px #fff;
+	border-radius: 0 12px;
+	padding: 4px;
+}
