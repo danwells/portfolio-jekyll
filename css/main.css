@@ -434,3 +434,14 @@ a:visited { color: #205caa; }
 	border-radius: 0 12px;
 	padding: 4px;
 }
+
+/* About page */
+
+#profile_img {
+  width: 100px;
+  border-radius: 50%;
+  float: right;
+  position: relative;
+  right: -10px;
+}
+
