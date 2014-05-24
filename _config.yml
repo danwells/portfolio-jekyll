@@ -1,9 +1,10 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Daniel Wells
+email: danielwells.usnret@gmail.com
+username: danwells 
+twittername: dwellsusnret
 description: "Dan Wells GitHub pages"
 baseurl: "/portfolio-jekyll"
-# url: "http://yourdomain.com"
 
 # Build settings
 markdown: kramdown
